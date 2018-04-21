@@ -1,4 +1,4 @@
-simple annoucment bot for Ghoul server
+simple announcement bot for Ghoul server
 
 **requires** <br>
 -node.js <br>
